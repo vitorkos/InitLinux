@@ -115,7 +115,7 @@ The name files in Linux are case sensite so A.txt is a different file than a.txt
 	-m, -M, -k, -t, -nr
 	
 	
----
+---		
 	
 	#Main sheets of Vim(while i dont pratice): Modes, sheets ands commands;
 
